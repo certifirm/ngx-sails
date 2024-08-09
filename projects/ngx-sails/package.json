@@ -1,17 +1,17 @@
 {
-  "name": "@aloreljs/ngx-sails",
-  "version": "18.0.0",
+  "name": "ngx-sails-cf",
+  "version": "18.0.1",
   "author": {
-    "name": "Arturas Molcanovas",
-    "url": "https://github.com/Alorel",
-    "email": "a.molcanovas@gmail.com"
+    "name": "JL",
+    "url": "https://github.com/certifirm/ngx-sailsl",
+    "email": "@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alorel/ngx-sails.git"
+    "url": "git+https://github.com/certifirm/ngx-sailsl/ngx-sails.git"
   },
   "bugs": {
-    "url": "https://github.com/Alorel/ngx-sails/issues"
+    "url": "https://github.com/certifirm/ngx-sailsl/ngx-sails/issues"
   },
   "description": "Sails socket.io bindings for Angular",
   "keywords": [
@@ -28,8 +28,8 @@
     "@types/socket.io-client": "^1.4.36"
   },
   "peerDependencies": {
-    "@angular/common": "^16.0.0",
-    "@angular/core": "^16.0.0",
+    "@angular/common": "^18.1.4",
+    "@angular/core": "^18.1.4",
     "rxjs": "^7.4.0",
     "socket.io-client": "^2.0.0"
   },
