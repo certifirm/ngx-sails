@@ -6,6 +6,7 @@ Used the abandoned [ngx-sails](https://github.com/brandom/ngx-sails) as a base.
 
 - `npm install socket.io-client@^2.0.0`
 - `npm install @aloreljs/ngx-sails@CHECK_BELOW`:
+   - Angular 18
    - Angular 16: ^4.0.0
    - 15: ^3.0.0
    - 14: ^2.1.0
